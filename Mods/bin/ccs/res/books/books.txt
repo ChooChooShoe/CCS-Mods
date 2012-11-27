@@ -1,0 +1,17 @@
+#Username of the player that made this, can be madeup
+Author=You
+#Name of the Book and Item
+Title=Tutorail
+#Text on each page, max 256 charters, might not all fit, max 50 pages
+Page1=This is how you put an enter /n OK, /- a enter counts as one charter
+Page2=And a exuals is done like this /- exuals \- \-
+
+Author=Me
+Title=New Book
+Page1=Lt0ieh ugf o78awg 078g p87gf os/dg /n/n/n/n/n ok \3 fp9HUF /n
+Page2=if /-/-/-/-/-/-/-/-/- equals
+Page3=lolololololHAHAHHAHA
+
+
+#Sorry this is needed to end the file
+Author=DO NOT REMOVE

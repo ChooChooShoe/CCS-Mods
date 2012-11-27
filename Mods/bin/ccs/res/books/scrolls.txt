@@ -1,0 +1,9 @@
+#Username of the player that made this, can be madeup
+Author=You
+#Name of the Book and Item
+Title=Tutorail
+#Text on each page, max 256 charters, might not all fit, only one page
+Page=This is how you put an enter /n OK, /- a enter counts as one charter
+
+#Sorry this is needed to end the file
+Author=DO NOT REMOVE
