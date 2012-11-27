@@ -1,93 +1,913 @@
-I am a good modder but very bad with ideas. So here is my solution, have the forums to give me suggestions for the mods they what. That means you, you give me ideas and  I’ll code them for you and share links to the public. It gives you what you what and gives me experience. I will only make your mod of you read and summit according to the registry below. All mods will have a download link in this post so others can enjoy.
 
-Hey guy I here with a new idea, do you see that poll above? I am using it to pick which of the mods you submitted I should spend more time on and release earlier. Vote away.
 
-*^* MAKE SURE YOUR MOD DOES NOT ALREADY EXISTS OR I CAN'T MAKE IT, try using Google to find a similar  mod first *^*
+
+Whale Mod:
+Download by [url="http://adf.ly"]adf.ly[/url]
+
+Platypus_Man_11
+Registry:
+Mod Name: Dont care
+When Do I What It By: within a month and a half
+Main Mod Idea: Flaming arrows (Arrow combined with flint & steel, gives you flint & steel back) and a new mob: elf (a little shorter than ender man, carries a long bow) longbow too (a large bow that goes faster and longer. recipe: )
+Forge?: If Possible
+
+m3ntali5t
+Mod Name: RP PlayerCard "? or something like that"
+When Do I What It By: As soon as you can securly make it "dont need it rushed and something looked over"
+Main Mod Idea: For rp servers that want to give people titles and not do it in front of their name, cause that just gets messy... Make it so shift clicking a person pulls up information about that person... such as age, rank, race,  ""our server will be space themed so.." Ship name they work on... best to make the information customizable with as little or as much information as the admins see fit...
+Forge?: No.. we don't use it...
+
+Soul98
+Mod Name: AlchemyCraft / ChemistryCraft
+When Do I What It By: 3-5 weeks.
+Main Mod Idea: I think the closest thing we have to chemistry or alchemy is the brewing stand, and i want more. Things like labs to create chemicals, syringes, medical things, Mixing Table ( for mixing liquids and compunds into new ones), etc. We need more. It should also be Mulitplayer compatible. Dont just make it all mixing and spending hours inside your home making chemicals... and drugs . We should be able to mix weird things, like poison, load it into a syringe, then into a needle gun, shoot a mob and poison them.
+Forge?:Don't care 
+
+Kainrand
+Registry:
+Mod Name: Zelda Craft
+When Do I What It By: Take your time
+Main Mod Idea: Zelda mobs and items
+Forge?: Preferably 
+
+Dentreoss
+Registry:
+Mod Name: Tool Craft
+When Do I What It By: However long it takes!
+Main Mod Idea: GIve me a moment to explain...
+
+It works like this...
+There are three inputs, and one output. This is the crafting table GUI of the mod (below), really the only change besides a few tools.
+Obviously the 3x3 grid is where you put the crafting recipe. But, in this mod you will also require to put some tools in one or two of the bottom two input boxes.
+Depending on what tool you put in, the longer or shorter the crafting period.
+Note: the building system will be like the furnace system in this way... the tools being fuel, and the arrow will even act as the "progress bar"
+For example, place some logs into the crafting table. They will start to be built at say 2 logs every 3 seconds. Put a wooden axe into the tool section, and you will start getting a crafting rate of maybe 2 logs every 1.5 seconds. Put in a stone axe instead to get a rate of 2 logs per 1 second, etc, until you have a diamond axe giving you like 2 logs every 0.15 seconds
+Each use of the tools per recipe will degrade that tool by one use.
+Then, add a few more tools, like a hammer, and maybe even redstone-built power tools that work really fast like power saws, wrenches, etc.
+Also, the reason for having two tool slots is because some crafting recipes may require multiple tools, for example maybe building a minecraft will require a pickaxe and hammer. 
+Finally, some things may not require tools. (like for instance maybe wood tools just to make the start game easier)
+art - by me, just email me jack.mb.cheese@gmail.com for more art including GUI and tools for this mod and any mod FREE
+
+Forge? Preferably
+
+
+Sylocat
+Registry:
+Mod Name: LibraryCraft
+When Do I Want* It By: At your earliest convenience
+Main Mod Idea:
+
+1. Bookshelves that work. Yes, big surprise, I know. But...
+1a. I would like one type of bookshelf that just functions like a regular Chest, but another type that functions like an Ender Chest (perhaps entitled "Branch Library" to fit the theme?).
+1b. Have them look, from the outside, like regular non-working bookshelves (or I could edit the textures in photoshop later on). However, perhaps the side image could change depending on how many books are in the inventory?
+
+2. Books with colored covers. Include colored wool in the place of leather when crafting a book, and the book's cover will be the color of the wool. This extends through the book and quill and written book phases.
+
+Forge?: Yes. Please, please, yes. 
+
+AnonTheMouse
+Mod Name: Alexandria
+When Do I What It By: Before 1.5 comes out?
+Main Mod Idea: Adding more options for writing/books.
+Forge?: Preferred
+SMP?: Yes
+Paper Mill - A machine for converting wood into paper. Doesn't need to be efficient, or fast. Should require fuel, like a furnace.
+
+Book Press - Another machine, used to copy the contents of a written book into a blank one (maybe to duplicate maps?) that requires Inc Sacs, but not fuel, to use.
+
+Lectern & Wall Mount - Two items, the first is a podium, the second a shelf that goes on the side of blocks. Both would otherwise have identical function. Place a printed object (like a book or map) in their single-slot inventory, and it's displayed on top. Right-click the displayed item (instead of the stand) and you can view it as though you were right-clicking it from your inventory, however it stays on the stand.If possible, making these work with the special books from Mystcraft would be Epic Win.)
+If possible, making these work with the special books from Mystcraft would be Epic Win.
+Scroll - Made from one paper, two sticks, an ink sac, and a feather. They work like a Book and Quill, but without the option to add additional pages. (A slightly lower-cost B&Q for short notes.)
+
+Scroll Rack - Made from four wooden planks in the corners of a + shape of Scrolls. Works exactly like a Bookshelf, so you can surround an Enchanting table with them.
+If merged with LibraryCraft, versions that work like their bookshelves?
+Random Books (Optional) - Just as a fun thing, some kind of madlib style text creator that will make signed books and scrolls with random content, titles, and author names to appear in chests in strongholds, dungeons, and villages. Would be cool if it could take advantage of some of the text formatting options, like coloured text and special characters. Maybe also have some kind of random generation to create made-up names when the name of a person or place is asked for. Maybe even occasionally replace nouns with a string of 4-7 of those random changing letters (very rarely).
+
+
+Galacticdude777
+Mod Name: Whales
+When Do I What It By: Anytime
+Main Mod Idea:  (This is quite a big one)
+New mob: Whales
+New items: Harpoon gun, wetsuit, snorkel, tires, rubber bands, slingshot, Off-Track minecart, crill, thongs (The kind you wear on your feet), expanded saddles, And of course, WHALE SKIN (rubber)
+
+The way to get these items is to find a Whale (spawns in ocean biome) and kill it, it will drop whale skin, which is kinda a replacement for rubber. You can make many awesome things with Whale Rubber. You can use an expanded saddles, and tame the whales with crill. THEN YOU CAN RIDE THEM OMGGGGGGGGGGGGGGG!!!
+
+Recipes:
+Expanded Saddle: St = string Sa = saddle
+[00][00][00]
+[ST][SA][ST]
+[00][00][00]
+It will take a really long time to write all of the recipes so you can make the rest 
+Forge?: Don't Care 
+
+Pete994
+Registry:
+Mod Name: Ring Mod
+When Do I What It By: About a Week
+Main Mod Idea: Adds a slot next the main armor (possibly lined up so it looks even) where you can put a ring. There would be around 10 rings all with different enchantments, but I also thought, maybe it could be like a green lantern ring? Probably impossible but just a thought
+Forge?: Forge and modloader prefferably. 
+
+TsunaOfTheDyinWillFlame
+Registry:
+Mod Name: reborncraft
+When Do I What It By: ASAP
+Main Mod Idea:
+
+so i want to make a mod for the anime Kateyo hitman reborn. It will be the first for this anime to be made ( i looked everywhere) so i am sure it will be original. Anyway i would like it if you could take this ringhttp://i.imgur.com/MZ79Z.png and make it so that when you right click it destroys block and mobs. ( the blast would be 2 bolcks high and 5 bolcks long). I would also like it if when you hold the ring it gives you the ability to fly and also no fall damage plus some more strength that woud be amazing. pls and thx XD
+Forge?: I don't really care.
+
+Mega_Neno_07
+Registry:
+Mod Name: Soccer Mod
+When Do I What It By: Asap  max 2 weeks.
+Main Mod Idea: Well I want soccer ball doesent have to be good texture just make sure its circled and gloves, for goalies also maybe so makeable t shirts with custom names and number like you have to build the shirt maker itl be expensive and and you can create a plain shirt with wool and leather and put it in the shirt maker and you can put names and maybe 2 numbers
+Forge?: modloader would be good just that tho. 
+
+jac1011
+Registry:
+dude ur freakin canadian AWESOME me too cauz' of this could u make me a ender sword do what ever texture
+
+0
+0	   
+I
+0=ender eye
+I=blaze rod	 better than diamond plz plz and if u like my ideas i can give u other
+
+respond EH!!!
+
+When Do I What It By:tommorow nan just kidding in 1 month but i need to be 1.4
+Mod Name: ender craft
+Main Mod Idea: a sword better than diamond =1 shot kill everithing exept boss
+Forge?:HELL NO but mod loader 
+
+walternate
+Registry:
+Mod Name:Advanced boat 
+When Do I What It By: About 3 weeks (won't care if it takes a little bit longer)
+Main Mod Idea: This mod wil create extra boats (maybe with cannons) so you can be pirates with your friends.
+Forge?: Yes
+SMP?: Yes
+
+I"ve also had a recipe for the sails
+
+X X X
+X  | X
+    |
+
+X= leather
+| = Stick
+
+hope you can make it. 
+
+jeretman123
+Mod Name: Xbox Generation
+When I want it: A month
+What it does: Makes a pregenerated limited world that hopefully limits lag.
+Forge?: No
+SMP: Dont care 
+
+PSergiop2 
+So we all have at least used once a automatic farm, collector etc... but you need to be there to get the items right? Well if someone made a Magnetic chest, not so much! Items would near the chest would be inserted in it, I think it would be great so you don't need to be there but still collect the drops while you mine, build or something without need to be AFK!
+If you're a modder please take this in consideration.
+
+
+botteofmtdew
+Mod Name: Autumn Woods
+When Do I What It By: Anytime 
+Main Mod Idea: This is a mod i actually just thought of so it is not quite complete but what i was thinking was a new beautiful realm, like it uses a portal to get to like the Aether but much different portal. What i was thinking was a new tree be added called a Beauty tree, it has amazingly beautiful orange leaves to represent fall (which i think is the most beautiful season) and The logs have like a shimmering to then when the sun sets and you have to have quite a bit of these logs AND leaves to make this portal. so you would chop the logs and leaves down and what you would do is make an actual pathway like this picture http://www.google.co...r:69,s:20,i:347
+(sorry i'm new to posting ideas so not good at making posts)
+and if you walkthrough it while the sun is setting (kind of like tropicraft) you would enter a whole new realm called the beauty realm. all the trees have a nice fall leaves look and they act like it is actually fall where if you step on them it makes a crunch sound like it would in the fall time. i imagine all the mobs being there except none are hostile they are actually extremely friendly and remade for example, zombies are no longer zombies but actually regular people with a smile. creepers no longer have their angry/scared face and are actually happy. skeletons too are just normal people. enderman turn into friendly giants that will catch fish and such. there should be beautiful new villages everywhere and the iron golems in the realm should be repolished and everything should just look beautiful and serene. i know it seems like a lot but i bet there is a modder out there who would love to do this mod and i know for a fact i would use this mod almost every day.
+
+Added features:
+A new sound track in the area (http://incompetech.c...n&Search=Search)
+a music disc containing the song.   
+Forge?: Please no thank you
+SMP?: If you want  
+
+Slimetime
+Registry:
+Mod Name: Wanderer
+When Do I What It By?: One Month? Two?
+Main Mod Idea: A rarely spawning humanoid mob that is not specific to any biome. When interacted with, he is able to trade with you very rare items such as diamonds, nether wart, blaze rods, anvils, etc. and perhaps have a story to tell.
+Forge?: Yes please.
+SMP?: SSP only is fine.
+Texture for Wanderer: NPC esque.
+
+Thanks for your consideration  
+
+
+bdl3700
+hey I do lets plays and mod reviews on my channel and have been looking for someone to make a mod for me to use in a series i would like to start i have posted the idea elsewhere over the last few months but noone has followed through with it if you could i would love it and like your post in every vid of the series if you would like here is my registration thing
 
 Registry:
-Mod Name: Example Craft
-When Do I What It By: About a Year
-Main Mod Idea: Gives an example to people on what to summit and craft dirt to diamonds
-Forge?: Yes/No/Don't care/Modloader Only!
-SMP?: Yes Multi-Player/Single Player Only
-* Note if you what SMP i need to use forge, that how it works.
-If you what you can include any sprites or block side textures you what and they must be 16x16 pixels
-If you what to make a recipe for certain items in your suggestions go to http://minecraftrecipedesigner.com/  To Create your own recipes and post the images.
+Mod Name: endergen
+When Do I What It By: as soon as you can get it done but please dont let it effect other projects
+Main Mod Idea: you add a tower like structure to the end made of a new basalt brick block similar to the one in redpower that holds the dragons crystal healer things instead of the current towers the will have blocks in the floor/ceiling called darkstone that are the exact opposite of glowstone lowering the light level instead of raising it making the area around them dark
+Forge?: sure i use forge
+SMP?: it only needs to be singleplayer
 
-[spoiler='Mods:']BLUE FONT = Mod complete
-GREEN FONT = I'm Working on It.
-RED FONT = I am Having Problems But I Can Fix It.
-BLACK FONT =  I Haven’t Started Working On It But I Will Soon.
-Platypus's Bow Mod
-RP Player Card
-More Armor Slots / Ring Mod
-ChemistryCraft
-Zelda Craft
-Tool Craft
-LibraryCraft / Alexandria
-Whales
-reborncraft
-Soccer Mod
-EnderSword / Ender Bow
-Advanced boat
-Xbox Generation
-Magnetic chest
-Autumn Woods
-Wanderer
-endergen
- the Frienderman Mod
-WeaselCraft
-winchit mod
-cannons mod
-Dragon apocalypse
-Akif_the_minecrafter's Mod
-Emerald Tools.
-Bleach Mod
-Glass Door
-Baking Breas
-External Life
-Simple Curtains Mod
-Server Folders
-Steve Co. Supply Crates
-Talented Steve
-StormCraft
-Npc control
-Hiden Blade Mod
-The New Constrained World Generation Mod
-bedrock mod
-More Mountable Mobs
-brownbeltboy123's Power Weapons
-NanoCraft
-MagicCraft
-Tazzer_1993's Space Mod ?
-persona 4
-Villager GUI
-Okami Craft
-Rock Raiders
-Water Power
-Awesome Dragons
-Invisibility Cloak
-Roller Coaster
-Stack Building
-Dirt+
-Snowboard mod
-Deshidratation Mod
-Boomarang
-Gels Mod
-The Birthday Mod
-Battle for the Overworld
-Void Demention
-Elemental Craft
-arkume8beltz's Slingshot Mod
-Navy craft
-[/spoiler]
-[spoiler='How Can I Help:']Help 1 - Writing Books:
-Do you know how to read and write English? If so help write so books and/or scrolls for my up coming mod just follow this https://docs.google.com/document/d/1XWYvXfK2LgOJo2K3kuHgIbhFCVW9UzLq7JekEKOr6eQ/edit link here to Write Books, or this https://docs.google.com/document/d/1v8jOXx0Y8uqY6WKWdZ6WcxAn9ZoE-n2K7HFjLpivjg8/edit link here to Write Scrolls. They are open to everyone so don't be an ass and remove others work, your name will be mentioned at the download link. And remember Google is watching you.
-[/spoiler]
-[spoiler='Photos:']THERE ARE NO PHOTOS BECAUSE THERE ARE NO MODS RELEASED YET, SO ENJOY THIS PIC FORM SOUTH PARK
-http://www.minecraftforum.net/topic/1525505- http://pillaticos.com/wp-content/uploads/2012/02/southparkstudios-error-page.png
-[/spoiler]
+Maroon_Walker
+Registry:
+Mod Name: the Frienderman Mod
+When Do I Want It By: About a month (I can extend if needed)
+Main Mod Idea: You get a friend to follow you around who's an Enderman, you can also give him armor and things to hold.
+Forge?: Modloader only!
+SMP?: Whichever's easier.
 
-To Help and Support Me Try Giving Me a http://static.minecraftforum.net//public/style_images/mcf/rep_up.png If You Haven't Already.
-Or try out this banner [code][url=http://www.minecraftforum.net/topic/1525505-][img]http://i1162.photobucket.com/albums/q535/ChooChoo_shoe/banner.png[/img][/url][/code]
-[img]http://i1162.photobucket.com/albums/q535/ChooChoo_shoe/banner.png[/img][
+
+TehK33Bl8dman3000
+Registry:
+
+Mod Name: WeaselCraft
+
+When Do I What It By: As soon as you can get around to it ( i don't want to be a burden)
+
+Main Mod Idea: adds weasels into Minecraft (in honor of Silver_Weasel). They should not be afraid of the player, can dig, and tend to jump lots in place while sprinting (weasel war dance). You can tame them with raw meat (but not zombie flesh) and turns them into sabled ferrets complete with naming, health and command GUI. They should also be breed-able with rotten flesh (i would suggest chicken, but since there are none...) Also, do NOT make them spawn on grass, since the Wasteland Mod has none.
+
+
+I also would like them to be right clickable with an iron block to turn them into (you guessed it!) silver ferrets, which are basically a souped up version of the normal kind. Should work for the wild kind too. Unlike other mobs, they sniff out ores (not coal though) and can be healed with food.
+
+Intended for usage with The_Holy_Frenchman's Wasteland Mod for 1.3.2, so they should be compatible
+
+Forge?: I don't usually use forge, but if it will help it work better, use it. Then again, i do want sound (like dooking
+
+SMP?: For the sake of Wasteland Servers, SMP please 
+
+nipie66
+Registry:
+
+Mod Name: winchit mod
+
+When Do I What It By: end of this year if you can
+
+Main Mod Idea: Basicly it adds a winch that works like so, it is crafted by putting a lever to the right of wooden planks, when place it looks kindof like the size of a stone wall on its side with the planks texture and a lever on the side facing you when you placed it but not on the bottom or top, it is only placable on the under side of a block, when looking at the main bit thats not the lever you right click it to open a gui the same as a small chest but with one extra box not connected to the others, you fill the main area with as much string as you like and the put in the extra box, one otf the following items, a bucket, cobblestone(also mossy) stone, stonbricks(any kind) iron block, wood or planks, glass or a chest.
+
+basicly you look at the bottom of the lever and pull the lever it goes down, if you look at the top it goes up and if it is at the bottom and you pull it up it goes to the middle depending on how much string you put in (it only counts as one if the string is stacke, thats how many blocks it can go down, so at most 28, when the lever is down a rope that is non solid and two pxels thick extends down until you pull it to the middle when it stops, when the lever is pulled to the top the rope goes back into the winch, what was in the extra slot if anything determines what is on the end of the rop, when pulled up the thing that was in the extra slot appears to be placed directly bellow the winch, if you put a block in it will look like a block or chest on the end, you can stand on or put a mob or entitie on the block to make a mob lift and a chest can be used as storage that goes up and down, a bucket looks like a cauldron and it it is filles with water it looks like a caoldron with water, the same for lava and milk canot be used, if it is emptie and you lower it down with the winch into water or lava it fills up, usefull for wells. please feel free to ask if there is anything you are unshure of.
+
+bye the way my computer dosnt work with modloader and stuff so ye
+
+and if you want to email me to tell me its done please do my email is
+
+
+nye@blether.org.uk 
+
+siaba__m
+Mod name: cannons mod
+
+When do i want it by: 3/4 weeks is ok
+
+Main mod idea:let me explain...
+
+there is 3 kinds of cannons
+the single and triple shot cannons loads instantly
+so just by clicking the right button (buton  2)
+shots with all the strength of a fully loaded bow
+
+single shot:
+
+shots 1 arrow, crafting:
+
+
+tri-shot cannon
+
+Justy like the single shot but takes 3
+arrows from the inventory and shots them
+in 3 diferent directions
+painting = single shot cannon, crafting
+
+
+
+And last but not least
+
+Mounted canon
+
+
+place it on the ground an shots unlimited cannonballs
+it wold be awesome if i can rotate it 360º while sitting on it
+shots with P and turn it with A and D
+
+Guddi112
+Name: Dragon apocalypse
+
+When Do I want it: In 2 months ( You will need alot of time doing this)
+
+Main mod idea: The mod adds many kinds of dragons that spawn in the main world (litle dragons til large dragons) When They land they will not break any bloks or destroy your world like the enderdragon would do. Not all the dragons are in the same colour, some are black some are red and some are green or grey etc.
+
+Forge?: No! But modloader is ok
+
+SMP: Its ok if you will create the mod for multiplayer to but it is created for single player
+
+Items recipe:
+
+Wooden shield:      Iron Shield:
+http://i1298.photobu...oodenShield.png     http://i1298.photobu.../IronShield.png       
+Latern:    Chair:
+http://i1298.photobu...n262/Latern.png  http://i1298.photobu...on262/chair.png     
+Table:   Spear:
+http://i1298.photobu...on262/Table.png   http://i1298.photobu...on262/Spear.png     
+Magic Staff:       Crossbow:
+http://i1298.photobu.../MagicStaff.png   http://i1298.photobu...62/Crossbow.png 
+
+I   Can help you doing some of the textures if u want, and please make the mod 
+
+Sry I dont know how to post pictures yet so just use these    And when the mod is ready it might wanna get very popular :] 
+ 
+ 
+Akif_the_minecrafter
+
+ Mod Request
+
+So, as you know by the title " It says I need a Free Mod " not just an ordinary mod but an awesome, useful, worth-using mod ever.
+
+What I need is a mod pack that has all these features. What I meant is like having many mod features in just one mod. For Example like, I download a mod called "whatever" which have a mod that allows you to fly, a mod that has furnitures, and many other mods. As the mod updates, it has new features.
+
+What I want in the mod:
+( I want the mod to be a little bit magical )
+
+Ok, so in that mod, instead of walking on air when flying, I would like to have wings that flaps instead of walking on air.
+
+I also want to have the villagers in different skins.
+
+And of course, having a mod with just 2 new features isn't enough to what I want. I would like to have new mobs called like villagers called Magicians who is like a guard, they kill zombie, they kill skeletons, they even kill creepers and of course, other bad mobs that attack us. They do not attack villagers or me.
+Additional Information about the Magicians: They can wear robes with hoods as long as they all have custom skins. They're power are used by a staff/wand which is a long range attack. They automatically attack bad mobs when they are near. The Magicians drop lots of XP and a staff when they die.
+
+Last feature I would need includes having a new mob and a new feature. This will be like a shop. There will be mobs such as blacksmiths, librarians and block seller(I need a better name for this). The Blacksmith sells weapon, librarians sells potions and materials. Block sellers sells blocks. Now the new feature which should be added is: when a mob dies(if we kill), we automatically get coins. The amount of coins we get is by how strong the monster is. The coins will be used for buying stuff in the shops. The stuff cost is decided by how valuable the items are. When you click the inventory systems, it will show the amount of coins you have altogether.
+
+That is all for the 1.4.2 update of minecraft. In future, updates, I might give more ideas.
+If you'd like to discuss this with me, you can post a comment or private message me.
+
+The whole mod can be called: (anything you want as long as it sticks to the points)
+
+Thank you!
+
+Humilliator
+
+Mod Name: Your Choice... 
+When I Want It Done: Within 1 1/2 Weeks
+Main Idea: To Give Emeralds A New Use As Tools In 1.4.2.
+Forge?:Yes
+SMP?: Yes
+
+Can You Make The Tools Better And More Durable Than Diamond 
+
+LittleBreadLoaf
+
+Mod Name: Bleach Mod
+When I want It Done: Christmas or so
+Main Idea: A mob that looks like a gorilla, but with a white mask (I can make a texture for it) that is neutral until attacked. However, it is always hostile if you are over level 15. This mob would drop 1-3 of an item called Reiatsu (see below for super details). 
+Forge?: If it makes it easier
+SMP?: That would be nice, but it doesn't have to be if you don't have the time 
+
+*So here's the whole thing. I had this idea for an anime mod like forever ago. Here's all of the details. And a few people said they would start to make it, myself being a novice coder. However nothing seems to be getting done. Therefore, I have started learning to code the simple stuff, but I don't really know how to make mobs... So if you would like to help out more, feel free to do as much as you want 
+Thanks!
+
+SegFaulter
+Here's my two cents:
+
+Cent #1:
+Mod Name: Glass Door
+When Do I Want It By: whenever
+Main Mod Idea: adds a glass door, exactly the same as default door, but it uses the glass texture.
+Forge?: Yes, please
+SMP?: Yes, so others can use it on servers
+
+
+Cent #2:
+Mod Name: Baking Breas
+When Do I Want It By: whenever
+Main Mod Idea: Changes the defaults so that one must cook raw bread to get ''cooked'', edible bread
+Forge?: Yes, please
+SMP?: Yes, so others can use it on servers
+
+Thank you for your help. And whenever you may get around to the glass door, please PM me a download link upon completion. Thank you for doing this for the community. 
+
+User101require
+
+Registry:
+Mod Name: External Life
+When Do I What It By: As soon as possible, but am willing to wait until after New Years.
+Main Mod Idea: [moved to bottom due to tons of info]
+Forge?: Yes, please!
+SMP?: Single Player Only
+
+dracomancer89
+
+Registry:
+Mod Name: Simple Curtains Mod
+When Do I What It By: About a Week? Sooner if possible. 
+Main Mod Idea: This has been done before but never for 1.4.2. I just need a mod that allows curtains to be placed on windows and flow to the ground that can be opened and closed by right clicking. I want this for the sole purpose of blocking out light whenever need be. Maybe if they could be different colors? I really don't mind if you only have time to make them one color. Preferably red. I have other mods installed but I can remove whatever so that they don't conflict.
+Forge?: Yes. I only use Forge. 
+SMP?: Single Player Only
+
+Also, I have windows that are three blocks wide (and one that's 5 blocks wide and several blocks high). I have no idea how you would make the curtains flush with each other but I'll leave that up to you... Just occurred to me that I might have to mention that.  
+
+blockman2011
+
+Registry:
+Note: This mod is for Minecraft 1.4.2. (latest update)
+
+Mod name: Server Folders
+
+When do I want it?: ?I would like it as soon as you can get to it. I am in no rush, but would like it fairly soon.
+
+Main Mod Idea: This mod adds the ability to make server folders in the multi player server menu. So instead of having a long list of servers, you can make folders of servers and neatly organize them all. You would have a button called "New Folder," and when you click it you can create and name a new server folder. And once it is created you can move your selected servers into that folder.
+
+Also just as an extra, I don't require this, but it might be cool to add server and folder name colors  So you can have colored names of the folders. Just to spruce it up a little. Just a little idea.
+
+Forge?: I do not use forge, does not need to be compatible.
+
+Note: I have optifine, invantory tweaks, mod loader, lite loader, and macros key binder mods installed. But none of them should at all conflict with this mod I am requesting. Just letting you know in case they do.
+
+
+SMP?: Its not a content mod. Just a menu mod. So I don't know how to answer this question... 
+
+@Deprecated
+Waddlesail
+
+Registry:
+Mod Name: IDK, i really dont care
+When do I do it by: 1-2 month
+Main Mod Idea: You can build more items. Villagers will trade the items also.
+Saddle:
+Fountain (you will keep the bucket.) this can be used to have a small water fountain.
+Dummy: this will attract mob attacks to it rather than you.
+Mob Spawner: you can put any mob drops and spawn that mob.
+Forge?: once again, IDK
+SMP? Y-E-S-S-S!
+
+ok i added more stuff: Deconstructor: this let you take apart items
+ Tele Staff lets you teleport without damge and will break after 25 uses
+Wool Armour will be built with wool and will be weaker than leather
+Generated castles, I can make the model, will have a dungeon, a tower, arrow traps, trapdoors, and chests with rare items inside.
+Coloured Glass, made with glass and dye, my buddy Sebass330 suggested this.
+the /killall, platform, and  explode commands. Take your time on making this mod, and please just PM me when it is done, you can take as long as needed.
+also can it be compatible with SSP and LAN? 
+
+Anthologist
+
+Registry:
+Mod Name: Supply Crates
+When Do I What It By: About a Week, take as long as you need, just keep me informed.
+Main Mod Idea: Places two types of crates on the ground as the world generates. Can be opened with the corresponding type of key/coin. More details here.
+Forge?: Modloader only, please.
+SMP?: Yes, Multiplayer.
+
+EnderRex
+
+REGISTRATION:
+Name: Talented Steve
+When: don't care
+Basic idea: training. A new block letting you spend xp on
+skills like speed, jump height, damage, fortune, etc.
+OR a new energy bar on the HUD that you can spend instead
+of xp OR a new item like a training seed that you can get
+from trading with villagers.
+Forge: don't care.
+SMP: multiplayer and singleplayer 
+
+StormriderRules
+
+Registry:
+Mod Name: StormCraft
+When Do I What It By: Anytime is fine (ive noticed the tons of mods posted here)
+Main Mod Idea: Well, I'm looking for a mod where you can craft These Items:
+Storm God's Armor (Helm Chest, Pants, & Boots) 10x stronger than diamond
+Storm God's ore (purple, mined with iron  pick or stronger) Smelted with any ordinary smelting equipment. as rare as diamond.
+Storm Gods Pick (Same as any pick) 10x stronger than diamond
+Storm God's Sword (same as any pick) 10x stronger than diamond
+and
+Storm God's Lightning ring (infinite uses, summons lightning where left clicked)                                           Diamond Storm Ore Diamond
+(Sorry this workbench Sucks)                                                                                                                                  Iron  Diamond Iron
+                                                                                                                                                                           Diamond   Iron     Diamond
+Forge?: No
+SMP?:  Singleplayer Only
+
+Thanks for your time just pm me the dl link when its finished ill do a mod review and refer you to this forum Link! 
+
+Ev_da_bacon
+
+Mod Name: Npc control
+When Do I What It By: no exact time (but it shouldn't take forever)
+Main Mod Idea: basically there should be an in game gui saying how many of a certain mob can/should spawn, what biomes certain mobs can spawn in, and it should have external mod support aka it works with mo creatures and biomes'O Plenty
+Forge?: I don't care, but it should be compatible with forge and modloader (not necessarily requires either)
+SMP?: I think it should have both multi-player and single-player 
+Note: a version for 1.3 would be cool too, but don't do it if it's too much trouble 
+
+siaba__m
+
+ModName: Hiden Blade Mod
+Mod Contents: Hiden blade
+When do i want it by: dont care, if it works in 1.4.3 will be awesome
+Description: just an item called hiden blade that has x4 gold sword's
+damage, No recipe, only obtainable in creative
+
+SMP: single player and multi player 
+
+LordSolarMacharius
+
+Mod Name: The New Constrained World Generation Mod
+When Do I What It By: Take your time, but preferably in the next two months.
+Main Mod Idea: Essentially an update of the old http://www.minecraftforum.net/topic/1008832-11-constrained-world-generation-maps2minecraft-v03bukkit/  mod. There's a new World Type, called Constrained. In Constrained, the game will generate a map according to a png file in the mod's zip folder. There's also a config file that allows you to change the scale of the map. Note that the colours for the biomes must be exact!
+Forge?: Yes
+SMP?: Yes Multi-Player 
+
+brownbeltboy123
+
+here a mod my mod i what you to make
+mod name:bedrock land mod
+when do i what it by: a week
+main idea: turn the dirt to bedrock and give you a starting chast
+forge: no forge dont work for me
+smp:both 
+
+Mod Name: More Mountable Mobs
+When Do I What It By: As Soon as you can but i would like it good quality so take your time
+Main Mod Idea: Adds More mobs to ride and generally play around with
+Here is the new saddle that will be used:
+
+Boxman992
+
+And I have some ideas for mobs:
+Whale:
+Spawns in water and is rare
+About the speed of walking with swiftness 1
+Lava Whale:
+The same as Whale except spawns in lava and is only found in the nether
+Elephant:
+Spawns a bit more common than whale and is found on land
+A bit slow but not much slower than the player
+Dragon:
+You can guess this one
+Forge?: Yes
+SMP?: Yes Multi-Player
+
+brownbeltboy123
+
+here a other mod
+mod name:new armor/new items
+when do i want it by:a week
+main mod idea: add stronger armor and tools to the game
+forge:no
+smp:sp
+
+ here a pic	    	  it the same for all the tools amd armor 
+ 
+Thwultimatety249
+
+Registry:
+Mod Name: NanoCraft
+When Do I What It By: Before Christmas
+Main Mod Idea: It adds In A new Item called a NanoScope and You Could Get These Mobs once you get The Nanoscope Called Nanovors.They all look different heres a link to see what they look like its shows you the Series in 1 thing but shows the nanovors in it:
+
+Forge?: Modloader Only
+SMP?: Multi-Player/Single Player 
+
+Akif_the_minecrafter
+
+Registry:
+Mod Name: MagicCraft
+When Do I Want It By: 2-3 weeks
+Main Mod Idea: Adds new items/mobs and more to the game. Add wings and more to make it more magical.
+For More Information, go here: http://www.minecraft...eed-a-free-mod/
+
+Forge: Forge Modloader
+SMP: Single Player 
+
+Tazzer_1993
+
+Registry:
+
+Mod Name: ?
+
+When Do I What It By: When Ever,but don't take to long
+
+Main Mod Idea:
+A spacecraft themed modular construction addon to industrial craft 2.
+
+1. Adds senseors and that gather information from of the rooms where they are placed, and sends it to a computer to display the room size and shape and location of other rooms connected to the computer sensor network in relation to each other (For ground base/shipyard construction).
+
+2.Adds a Space dock of for the construction of space ships designed on a conected design computer using a modular construction system than the resulting spacecraft would have been customised to perform in the designed mission if that would be mining, exploration, trade or combat.
+
+3. Add abillity the to enter the atmosphere of the overworld, travel to the moon and other plants in the minecraft solar system each with there one atmosphere zone.
+
+4. The main spacecraft module types:
+Engineering systems
+Reactor type
+Engine's type
+Storage Bays
+Shuttle Bays
+Life support systems (beacuse Space has no air)
+Mod compatibility items
+Myst drive (Myst Craft support) for the spacecraft to enter Myst Craft ages
+Command system
+Computer Systems
+Senseors
+Computer core
+Ship control
+Weapon systems
+Hallways
+Hallways
+Air locks
+Door type
+Room type
+Crew quarters
+Engineering
+Security
+Command
+Other non specialty rooms
+5. This mod must be compatible with the following mods (the latest version if possible):
+Industrial Craft 2 (IC2)
+MFFS (modular force field systems) (IC2)
+Advanced machines addon(IC2)
+Compact Solars addon (IC2)
+RedPower 2
+Myst Craft
+BuidCraft v 3.x
+Addition BuildCraft objects
+RailCraft
+Equivalent exchange 3 (when available)
+Portal gun mod
+ThaumCraft 3
+So basically all Forge mods, but basically the ones listed above especially.
+
+Forge: Yes
+
+SMP: Are you kidding me. YES (what the fun of mods if cannot play with your friends)
+
+quadrupedal_pink_equine
+
+jacobllent
+
+Registry:
+Mod Name: persona 4
+When Do I What It By: when ever
+Main Mod Idea: i want it to be just like the persona 4 video game, make social links,use persona
+Forge?: No/Don't care
+SMP?: dosnt matter 
+
+romangvk
+
+Registry:
+Mod Name: Villager GUI
+When Do I What It By: Preferably less than two weeks.
+Main Mod Idea: In creative if you right click on a villager to trade, you can change his trades by dragging in items.
+Forge?: Don't care.
+SMP?: Single Player Only 
+
+Sillyo39
+
+Mod Name: Okami Craft
+When Do I What It By: Dont Care
+Main Mod Idea: My idea is to recreate Okami and Okamiden in minecraft. Yes, i know that this would be a LOT of work, so i am willing to help you make it. I can make items and crafting recipes. Please message me back with your answer.
+Forge?: I dont care.
+SMP?: I would like SMP, but you dont have to do it.
+
+Please not that this is kinda a help request as well as a mod request. 
+
+OoMNagent
+
+Mod Name: Rock Raiders
+When Do I What It By: No real time limit really, but if it was done before Nov 13th that would be sweet
+Main Mod Idea: Basically add features from the Rock Raiders 1999 PC game into minecraft e.g. drills energy crystals and crome crushers
+Forge?: Don't care
+SMP?: Don't care 
+
+IcyClench
+
+Mod Name: Water Power
+When Do I What It By: A week, but feel free to take your time.
+Main Mod Idea: Allows the user to walk on water with a command, or lava with a separate command. Also speeds you up twice as fast when on/in one of the two (with a command) and adds icicles that you can throw like snowballs, but they do half a heart of damage each. You could craft them with 1 block of ice per 4 icicles. And finally, adds one more command that makes the user take damage from water and rain (like an enderman).
+Forge?: Don't care
+SMP?: SMP only, make it for Bukkit, please. 
+
+Raizanoro
+
+Registry:
+Mod Name: Awesome Dragons
+When Do I Want It By? You have as long as it takes to make (With quality, of course!   )
+Main Mod Idea: Basically, I'm wantin' a Dragon mod that has different elemental dragons (And of course is up to date), with them being able to be mounted and bred. The 'elements' I want for them are: Ice, Fire, Wind, Water, Earth, Light, Dark, Lightning, Space, and Time.
+
+--Each Dragon will have its own special 'elemental' abilities and color scheme. Additionally, each could have the ability to breed with the other types, and possibly create other types (i.e. Earth+Fire=Volcanic;Earth+Wind=Sand, etc.).[If you are willing to do this more advanced idea, please, please PM me, and I can give you a list of all my combinations I've already thought up.  ]
+
+OR
+
+each type could be assigned a number of 0 through 9, and certain type breedings would create a specific dragon (i.e. 0+1 = 1, 7+3 = 10[9 would be the highest, so a number higher than that will redirect back to 0 {i.e. 10=0, 14=3, 18=8}]). I would probably set the numbers at: 0=Space, 1=Lightning, 2=Earth, 3=Darkness, 4=Fire, 5=Wind, 6=Water, 7=Light, 8=Ice, 9=Time.--
+
+ALSO, don't worry about making the looks for the Dragons. If you just make the mod and have all the Dragons use the basic Ender Dragon model/textures, I can just recolor those how I want after you link me to the Mod, so that should hopefully help out with you not having to worry about textures as well.
+
+Additionally, I would very much like the Dragons to begin as eggs when bred, and have the hatching time be something like 2 days. From there, the Dragon could be a hatchling, which lasts 2 days as well. During the hatchling phase, it can be bonded with and tamed. It can act much like a wolf in that it would sit on command but it would eat raw meats. Afterwards, it would reach the juvenile stage, which lasts 3 days. During this phase, the Dragon can eat cooked meats, and now fly, but not with the player on its back. You can saddle it and teach it to learn how to deal with the weight of the player during this phase, but it can only travel via ground. Afterwards, it reaches the final phase, which will be the Adult phase. During this phase, the Dragon will only eat cooked meats, and you can now fly on it, and it will attempt to protect you against all foes.
+
+Dragons should also be able to spawn in the wild, as well as breed. Many dragon types will be hostile to the player as well as the other dragon types, unless the dragon is tamed.
+
+Sorry for the tons of text, I'm just really excited about this idea. XD
+
+Forge?: Yes
+SMP? I would like it for MP and SP if possible. 
+
+I hope you are still taking requests, and have a very very grand day!!!!!!!!![insert colossal enthusiasm here] 
+
+kriNon
+
+Mod Name: Invisibility Cloak Mod
+When Do I What It By: Preferably before the 21st
+Main Mod Idea: http://www.minecraft...sibility-cloak/
+It's a relatively simple mod for most modders.
+Forge?: Yes
+SMP?: Yes 
+
+The Invisibility Cloak Mod
+Hey, My Name Is kriNon And I'm Looking For Someone To Make Me A Simple Mod!
+
+So, What Is This Mod?
+Quite simply I'm asking for a SMP compatible mod which adds an invisibility cloak(sprite ).
+The invisibility cloak would provide an infinite invisibility potion effect when worn.
+
+What Would The Name Of This Item Be?
+Surprisingly enough the invisibility cloak would be called the Cloak of Invisibility
+
+How Would This Item Be Worn?
+The cloak would be wearable in the chest plate slot.
+
+But Wouldn't This Defeat The Purpose Of "Invisibility"?
+That's why the texture of the item would need to be transparent.
+
+Wouldn't This Item Be Over Powered?
+The Cloak of Invisibility would not be craftable, this is to prevent just anyone from having it. It would have to be found in dungeon chests at a low chance (10%?). The invisibility cloak would not provide any protection but in compensation it would not take any damage.
+
+Are There Any Other Prerequisites?
+The item id would need to be changeable through a config file
+It must be coded for Forge
+It must not edit any base classes
+Thank you to anyone who attempts this project and I wish you all the best  !!!
+
+-kriNon 
+
+willko
+
+Registry:
+Mod Name: Roller Coaster Mod
+When Do I What It By:  4 Weeks
+Main Mod Idea: Adds a new type of minecart that you can use to ride along custom tracks and add loops tha cart can ride along.
+Forge?:No.
+SMP?: Single and Multi-Player. 
+
+tsimos13
+
+How bout a mod like fastbuild for 1.4.2? without forge . That's all i need
+Mod Name:Stack Building
+When Do I What It By:  1-5 Weeks before christmas
+Main Mod Idea: You are able to place multiple blocks with (shift and right click). Works exactly like this http://www.minecraftforum.net/topic/157764-r132modrelease-fast-building-18/
+Forge?:No.
+SMP?: Single Player . No multiplayer 
+
+trolz666
+
+Mod Name: Dirt+ (or something like that)
+When Do I What It By: Don't care
+Main Mod Idea: Dirt tools and armor which are better than diamond.
+Forge?: Yes
+SMP?: Single Player Only 
+
+arnii5
+
+this is my chance for asking a mod!  maybe my dream will come true now 
+
+Mod Name: Snowboard mod
+When Do I What It By: Doesn't matter, take your time
+Main Mod Idea: A mod that makes it possible to do snowboarding or skiing ( i prefer the snowboards, and it may be easier to mod a snowboard item because it is only 1 plank, ski's are 2 planks) so a snowboard item and snow should be very slidable when you are standing on the snowboard so you can actually slide over the snow and use the snowboard as a "vehicle". if possible make diagonal snow blocks so we can make slopes to go downhill  if not possible maybe make it that you can easily go down the blocks and very smooth not like you are walking down. i would LOVE this :3
+Forge: no
+Smp?: singleplayer only it is already hard enough i think :s 
+
+Kazini
+
+Mod Name: Deshidratation Mod
+When Do I What It By: As soon as possible, but take your time if you need 
+Main Mod Idea: My idea is simple, Hidratation bar up the hunger bar, eating will drain a little your Hidratation bar, in a desert biome you hidratation bar will be consume faster than normal. In a snow biome you hidratation bar will be consume slower than normal. Doing Exercise you hidratation bar will drain faster, doing exercise in desert biome will drain Very quick your hidratation bar!!! to fill your hidratation bar you need to drink water bottles or buckets. water bottles fill more hidratation bar than a bucket with water. milk fill the hunger bar like raw meat and fill a little of your hidratation bar. if you hidratation bar is emty you will die fast, in minecraft the dead tag is "fell out of the world". this mod no add new items or recipes.
+Forge?: Modloader Priority, Forge Maybe.
+SMP?: Multi-Player and Single Player, Single Player Priority (maybe bukkit?)
+
+Thanks a LOT!!  
+
+FallinginLavawithDiamonds
+
+Registry:
+Mod Name: Submarines
+When do I want it by: a month would be good
+Main Mod Idea: Drivable Submarines
+Forge?: Dont care
+Recipe: http://minecraftreci...ions/337649.png 
+
+supersamchops
+
+Registry:
+Mod Name: Boomarang 
+When Do I What It By: Take your time I can wait
+Main Mod Idea: Craftable Boomerangs and elemental ones (flammerang, frosty rang, kaboomerang, ect.)
+Forge?: I don't care whatever is easiest for you
+SMP?: Single player only is fine. 
+
+Videomaker101
+
+Here is my mod idea:
+
+Mod Name: Gels Mod
+When Do I want it by: before 1.4.4
+Main Mod Idea: It Adds Gels You Can Use to Craft wands with powers.
+Forge?: Yes
+SMP: Yes 
+
+Obsiilms
+
+Mod Name: The Birthday Mod
+When Do I What It By: Whenever you are available to make it.
+Main Mod Idea: I would like you to add a new button. I will describe it for you. I want a cake on both sides and the words Birthday in the middle of the button. When you click on the button I would like it to have this. Enter Birthday: mm/dd. Also They would be able to choose the sort of gift they would get after putting in their birthdate: 
+
+Options: Cakes, Cookies, Steak, Porkchops, and a Mystery Gift. The Mystery Gift would be all of them combined. 
+
+Then once it hits there birthdate, I would like it to randomly shower over them whenever they go to sleep. Or just have it randomly come out of mobs whenever they kill one.
+
+Forge?: Modloader Only. 
+
+At0mic_Cyb0rg
+
+Mod Name: Battle for the Overworld (you can change it if you don't like it) 
+When Do I want it by: ASAP but to be honest there is no rush, I just want it really bad.
+Main Mod Idea: Basically, add some generated structures like massive castles/fortresses that are defended by armed and armoured villagers. They are passive until attacked by Player, but attack hostile mobs on sight. There is a King in the castle/fortress which the guards protect with their lives. e.g. Two players in LAN. One attacks a guard, and they all start attacking him. The other attacks the King and the guards forget the first player and sprint to defend the King. Different kinds of guards like archers on the walls/watchtowers, normal soldiers with iron chest and iron sword (any more armour and they would be OP) and the rare heavy guard with full golden armour and an iron sword. And by the way, the castles/fortresses would be about as rare as a village, not too rare.
+Forge?: Prefer Risugami's Modloader, but if that's not possible do whatever you want.
+SMP: Don't care. Singleplayer is priority. 
+
+tthomason
+
+Registry:
+Mod Name: Void Demention
+When Do I What It By: No longer than 2 months
+Main Mod Idea: 
+Imploding Creepers and Void TNT!
+
+Imploding creepers implode and open up a vortex to the void demention, These creepers are EXTREMELY Rare!  When the Void is opened up you only have 10 seconds to jump in.  Once you are there, there will be a boss!  When Imploding Creepers are killed before Implosion they drop Black Hole Dust, which is used to make Void TNT as a replacement for Gunpowder in the TNT recipe.  Cobblestone will replace the sand in the TNT recipe to make void tnt!
+
+Keep in Mind that the Gunpowder Represents Black Hole Dust
+Also It should make 4 Void TNT instead of just 1 since Imploding Creepers are so rare! 
+
+Void TNT blows up 5 blocks below it and 25 blocks around its initial placement, but when it explodes(or Implodes) it sucks all the blocks into nothingness with it!
+
+Please Create, I think this will be a fun treat!
+
+Forge?: I would like this to use Forge and Modloader for easy Installment!
+SMP?: If it is possible then yes I would like this for multiplayer.
+
+Also if you need any textures I am a beginner but I could help you.  Also the creeper and TNT need to be obsidian-like. 
+
+ScootersEmeralds
+
+Mod Name: Elemental Craft
+When I want It Done: In 2 months or so
+Main Idea: You can make swords/pickaxes/axes/etc. out of elemental things (lava,water,coal,etc.)
+Forge?: If you can no.
+SMP?: NOP.
+
+Lava Sword
+Water Sword
+Sand Sword
+and etc. 
+
+jac1011
+
+MOD name :Ender Bow 
+
+When I want It Done: in 2 to 4 week (well u alredy did that exept a sword so)this is the time i expect to make it if u cant do it before chrimast well dont do it
+
+Main Idea: A a bow that call Ender bow not 1 shot kill (like 3 or 4) but FULLY AUTO 
+crafting : 
+smp i dont care
+MOD LOADER PLZ 
+
+arkume8beltz
+
+Cheap primitive long distance weapons mod(yeah..that wasn't a good name..)
+The idea was to have a cheap long distance weapons to use at begining of adventure..
+Sling or slingshoot:(choose the one you most like ..)sling was 2 strings(or vines)+1 of leather..slingshoot was 4 sticks+1 string,proyectiles are conblestone..(with flint you have the same problem like the arrows..)that make 1/2 than arrows..was 25% faster than arrow..
+Blowgun:2 sugar cannes,(you needn't crafting table..)usually from the cactus only take dye..but now cactus give you dye and spikes..that was the proyectiles from the blowgun..that only make 1/4 from a bow shoot,but you can use spikes with spider eyes to make poisonous spikes..was 50% faster than arrow..
+Javeline:Long distance and melee weapon..2 sticks+1 flint..+50% damage than arrows,but only can use 10 or 20  blocks of distance..(example..)reusable weapon..
+Net or Argentine bolas:(Choose which you prefer..)a 9 vines or 9 strings..that dont make damage,can't be used at more distance(10 or 20 blocks..)the mobs or other player move like was in spider web..(X seconds)can be reusable..
+
+Was weapons to use before you have a bow with sufficient arrows..and can be used if you are out of arrows..
+Before you can make..
+crossbow:was a bow+2 sticks..that was 50% more than bow damage,can be enchanted,but was 25% or 50% slower shooting than the bow.. 
+can i also add you need to mine the ores with a diamond pickaxe to be able to create them? 
+
+Gaurdian23
+
+Mod name: Navy craft
+When I want it by: Doesn't matter to me as long as it gets done lol, though preferably I would like it done in 4 - 8 weeks (since it might take a while).
+Main idea: Well basically the ability to craft a huge ship and walk around on it (along with npc's) and drive it as well as making minecraft's oceans as well as itself a little more challenging.
+Recipes: I'm not done thinking up a way to make it expensive but not too expensive as well as not too cheap. (you'll understand when you see the post lol)
+
+Could you make it SMP compatible? I don't mind forge at all, and having this mod on a server would be beyond awesome!!
+
+ChooChoo_Shoe, could you please, please, please make this a mod?!
+
+http://www.minecraft.../#entry18993712
+
+The funny thing here is I suck at modding and have huge great (in my opinion lol) ideas. 
