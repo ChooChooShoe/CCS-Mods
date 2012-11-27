@@ -26,10 +26,4 @@
 			<locationURI>PROJECT_LOC/minecraft</locationURI>
 		</link>
 	</linkedResources>
-	<variableList>
-		<variable>
-			<name>MCP_Forge</name>
-			<value>file:/C:/Users/Timothy/MCP%20Eclipse/Mods%20With%20Forge</value>
-		</variable>
-	</variableList>
 </projectDescription>
